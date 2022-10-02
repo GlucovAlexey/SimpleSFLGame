@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1664729206 source:/home/alexey/code/C++/Projetc/SFML_Engine/Draw.cpp
+	<iostream>
+	"Engine.hpp"
+
+1664731632 /home/alexey/code/C++/Projetc/SFML_Engine/Engine.hpp
+	<SFML/Graphics.hpp>
+	"Player.hpp"
+
+1664733986 /home/alexey/code/C++/Projetc/SFML_Engine/Player.hpp
+	<SFML/Graphics.hpp>
+
+1664730499 source:/home/alexey/code/C++/Projetc/SFML_Engine/Engine.cpp
+	<iostream>
+	"Engine.hpp"
+
+1664734188 source:/home/alexey/code/C++/Projetc/SFML_Engine/Input.cpp
+	<iostream>
+	"Engine.hpp"
+
+1664732588 source:/home/alexey/code/C++/Projetc/SFML_Engine/main.cpp
+	"Engine.hpp"
+
+1664736103 source:/home/alexey/code/C++/Projetc/SFML_Engine/Player.cpp
+	<iostream>
+	<cmath>
+	"Player.hpp"
+
+1664729955 source:/home/alexey/code/C++/Projetc/SFML_Engine/Update.cpp
+	<iostream>
+	"Engine.hpp"
+
